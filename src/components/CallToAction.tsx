@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Download } from 'lucide-react';
+import { Download, Chrome } from 'lucide-react';
 
 const CallToAction = () => {
   return (
@@ -16,12 +16,12 @@ const CallToAction = () => {
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
-                href="https://chrome.google.com/webstore" 
+                href="https://chrome.google.com/webstore/category/extensions" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-white text-extension-blue px-8 py-4 rounded-lg font-bold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center"
               >
-                <Download className="h-5 w-5 mr-2" />
+                <Chrome className="h-5 w-5 mr-2" />
                 Add to Chrome
               </a>
               <div className="flex items-center">
