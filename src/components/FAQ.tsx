@@ -67,7 +67,7 @@ const FAQ = () => {
             Still have questions? We're here to help!
           </p>
           <a 
-            href="#" 
+            href="mailto:shayankhan12340@gmail.com" 
             className="text-extension-blue font-medium hover:underline mt-2 inline-block"
           >
             Contact Support

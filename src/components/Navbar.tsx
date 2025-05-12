@@ -68,7 +68,7 @@ const Navbar = () => {
             <a href="#how-it-works" onClick={toggleMenu} className="font-medium text-gray-600 hover:text-extension-blue transition-colors">How it Works</a>
             <a href="#faq" onClick={toggleMenu} className="font-medium text-gray-600 hover:text-extension-blue transition-colors">FAQ</a>
             <a 
-              href="https://chrome.google.com/webstore/category/extensions" 
+              href="https://chrome.google.com/webstore/detail/mbibhjoejfgphfilkcidhdecijbiblfo" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block text-center"

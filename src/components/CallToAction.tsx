@@ -16,7 +16,7 @@ const CallToAction = () => {
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
-                href="https://chrome.google.com/webstore/category/extensions" 
+                href="https://chrome.google.com/webstore/detail/mbibhjoejfgphfilkcidhdecijbiblfo" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-white text-extension-blue px-8 py-4 rounded-lg font-bold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center"
