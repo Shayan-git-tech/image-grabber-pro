@@ -14,7 +14,7 @@ const Hero = () => {
               The ultimate Chrome extension for effortlessly downloading images from any webpage in JPG, PNG, or original format with smart filters and previews.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-              <a href="https://chrome.google.com/webstore/detail/mbibhjoejfgphfilkcidhdecijbiblfo" className="btn-primary text-center">
+              <a href="https://chrome.google.com/webstore/detail/mbibhjoejfgphfilkcidhdecijbiblfo" className="btn-primary text-center" target='_blank' rel='noopener noreferrer'>
                 Add to Chrome
               </a>
               <a href="#features" className="btn-secondary text-center">
